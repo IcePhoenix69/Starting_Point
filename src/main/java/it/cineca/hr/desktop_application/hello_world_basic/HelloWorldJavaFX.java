@@ -1,4 +1,4 @@
-package it.cineca.hr.desktop_application;
+package it.cineca.hr.desktop_application.hello_world_basic;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
